@@ -16,7 +16,7 @@ release. The press kit itself, with stills, GIFs, key art and the streamer guide
 | Developer and publisher | Whale Development Studios |
 | Release date | 11 March 2027 |
 | Platforms | Windows and macOS |
-| Free demo | On Steam now: chapter 1, "Welcome to Rubbleton" (the demo also exists for Linux builds) |
+| Free demo | On Steam now: chapter 1, "Welcome to Rubbleton" |
 | Engine | Godot 4.7 |
 | Weapons | 11 guns in the full game |
 | Chapters | 12 |
