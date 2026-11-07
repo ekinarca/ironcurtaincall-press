@@ -1,3 +1,5 @@
+Play it free now: the demo on Steam (https://store.steampowered.com/app/5417460/Iron_Curtain_Call/) or 60 seconds in your browser with nothing to download (https://ironcurtaincall.com/play/).
+
 # Iron Curtain Call: fact sheet and press kit index
 
 Iron Curtain Call (subtitle: World War III: Third Time's the Charm) is a fast paced cartoon noir first person shooter
