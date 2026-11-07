@@ -24,6 +24,11 @@ release. The press kit itself, with stills, GIFs, key art and the streamer guide
 | Style | 1930s rubber hose cartoon theatre, ink lines, newsreels, a swing noir score. Robots burst into bolts, springs and scrap. No gore. |
 | Voice | Every line is voiced |
 
+## Data
+
+The two 2027 lists the guides on ironcurtaincall.com keep, as CSV and JSON with the source, the read day and the rule: the upcoming
+FPS games and the upcoming Mac shooters and action games on Steam, in [data/2027-shooters-and-mac/](data/2027-shooters-and-mac/).
+
 ## Where to play and wishlist
 
 - Free Steam demo, chapter 1: https://store.steampowered.com/app/5451220/
